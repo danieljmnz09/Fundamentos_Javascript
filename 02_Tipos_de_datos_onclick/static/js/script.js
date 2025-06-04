@@ -2,7 +2,7 @@
 let numeroEntero = 2009;
 let numeroDecimal = 16;
 let cadenaTexto = "Sala #5";
-let valorBooleano = true;
+let valorBooleano = true;//Valor verdadero o falso( 0,1 )
 let arregloNumeros = [1, 2, 3, 4];
 let objetoPersona = { nombre: "Ana", edad: 30 };
 let valorIndefinido;
